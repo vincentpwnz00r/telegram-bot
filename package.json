@@ -1,0 +1,14 @@
+{
+  "name": "edenchain_bot",
+  "version": "1.0.0",
+  "description": "Edenchain Helper",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Vincent",
+  "license": "MIT",
+  "dependencies": {
+    "telegraf": "^3.21.1"
+  }
+}
